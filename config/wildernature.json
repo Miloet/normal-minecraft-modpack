@@ -11,10 +11,10 @@
   "DeerSpawnWeight": 13,
   "DeerMinGroupSize": 2,
   "DeerMaxGroupSize": 4,
-  "RaccoonSpawnWeight": 12,
+  "RaccoonSpawnWeight": 18,
   "RaccoonMinGroupSize": 2,
-  "RaccoonMaxGroupSize": 3,
-  "SquirrelSpawnWeight": 10,
+  "RaccoonMaxGroupSize": 6,
+  "SquirrelSpawnWeight": 14,
   "SquirrelMinGroupSize": 2,
   "SquirrelMaxGroupSize": 2,
   "RedWolfSpawnWeight": 12,
@@ -48,6 +48,6 @@
   "FlamingoMinGroupSize": 3,
   "FlamingoMaxGroupSize": 6,
   "HedgehogSpawnWeight": 13,
-  "HedgehogMinGroupSize": 1,
+  "HedgehogMinGroupSize": 2,
   "HedgehogMaxGroupSize": 3
 }

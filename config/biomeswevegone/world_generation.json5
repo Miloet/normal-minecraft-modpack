@@ -15,7 +15,7 @@
 		"biomeswevegone:dead_sea": true,
 		"biomeswevegone:mojave_desert": true,
 		"biomeswevegone:rose_fields": true,
-		"biomeswevegone:basalt_barrera": true,
+		"biomeswevegone:basalt_barrera": false,
 		"biomeswevegone:howling_peaks": true,
 		"biomeswevegone:atacama_outback": true,
 		"biomeswevegone:canadian_shield": true,
