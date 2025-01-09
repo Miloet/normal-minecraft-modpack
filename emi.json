@@ -1,6 +1,7 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:create:crushed_raw_iron",
     {
       "type": "item",
       "id": "create:experience_nugget",
@@ -32,7 +33,6 @@
     "item:plushables:heart_of_gold",
     "item:minecraft:iron_nugget",
     "item:minecraft:raw_iron",
-    "item:create:crushed_raw_iron",
     "item:minecraft:iron_ore",
     "item:immersive_weathering:biomeswevegone/ironwood_bark",
     "item:cobblemon:iron",
