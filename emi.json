@@ -1,14 +1,48 @@
 {
   "favorites": [],
   "lookup_history": [
-    "item:minecraft:iron_nugget",
-    "item:create:crimsite",
+    {
+      "type": "item",
+      "id": "create:experience_nugget",
+      "amount": 2
+    },
     {
       "type": "item",
       "id": "create:crushed_raw_gold",
-      "chance": 0.2
+      "amount": 3
     },
+    {
+      "type": "item",
+      "id": "minecraft:gold_ore",
+      "amount": 62
+    },
+    {
+      "type": "item",
+      "id": "minecraft:netherrack",
+      "chance": 0.125
+    },
+    "#item:minecraft:gold_ores",
+    "item:minecraft:raw_gold",
+    "item:mythicmetals:raw_midas_gold",
     "item:minecraft:gold_nugget",
+    "item:createdeco:gold_coin",
+    "item:createdeco:gold_coinstack",
+    "item:immersive_weathering:golden_moss_clump",
+    "item:immersive_weathering:moss_clump",
+    "item:plushables:heart_of_gold",
+    "item:minecraft:iron_nugget",
+    "item:minecraft:raw_iron",
+    "item:create:crushed_raw_iron",
+    "item:minecraft:iron_ore",
+    "item:immersive_weathering:biomeswevegone/ironwood_bark",
+    "item:cobblemon:iron",
+    "item:cafesbirding:light_iron_grate",
+    "item:cafesbirding:iron_grate",
+    "item:natures_spirit:chert_iron_ore",
+    "#item:minecraft:iron_ores",
+    "item:immersive_weathering:ice_sickle{Damage:0}",
+    "item:immersive_weathering:flower_crown{Damage:0}",
+    "item:create:crimsite",
     "item:minecraft:red_sand",
     "item:jewelry:copper_ring",
     "item:magistuarmory:copper_chivalrylance{Damage:0}",
