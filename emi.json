@@ -1,6 +1,25 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:pride_land:rainbow_dye",
+    "item:pride_land:rainbow_shovel{Damage:0}",
+    "item:rogues:warrior_armor_chest{Damage:0}",
+    "item:botania:reach_ring",
+    "item:minecraft:potion{Potion:\"wilderwild:reach\"}",
+    "item:wilderwild:crab_claw",
+    "item:bakery:baguette",
+    "item:archers:composite_longbow{Damage:0}",
+    "item:magistuarmory:maximilian_helmet{Damage:0}",
+    "item:fantasy_armor:hero_chestplate{Damage:0}",
+    "item:fantasy_armor:eclipse_soldier_boots{Damage:0}",
+    "item:fantasy_armor:sunset_wings_helmet{Damage:0}",
+    "item:fantasy_armor:wandering_wizard_leggings{Damage:0}",
+    {
+      "type": "fluid",
+      "id": "estrogen:gender_fluid",
+      "amount": 0
+    },
+    "item:wilderwild:null_block",
     {
       "type": "item",
       "id": "minecraft:coal",
