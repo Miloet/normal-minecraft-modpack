@@ -1,0 +1,81 @@
+{
+	id: "602BDB0FE16348C7"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "estrogen:thigh_highs"
+				tag: {
+					specialStyle: "estrogen:trans"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "estrogen:thigh_highs"
+				tag: {
+					specialStyle: "estrogen:pride"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "estrogen:thigh_highs"
+				tag: {
+					specialStyle: "estrogen:lesbian"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "estrogen:thigh_highs"
+				tag: {
+					specialStyle: "estrogen:genderfluid"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "estrogen:thigh_highs"
+				tag: {
+					specialStyle: "estrogen:vincian"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "estrogen:thigh_highs"
+				tag: {
+					specialStyle: "estrogen:bisexual"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "estrogen:thigh_highs"
+				tag: {
+					specialStyle: "estrogen:asexual"
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "estrogen:thigh_highs"
+				tag: {
+					specialStyle: "estrogen:non_binary"
+				}
+			}
+		}
+		{ item: "blahaj:blue_shark" }
+	]
+	title: "Gender"
+}

@@ -1,0 +1,99 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bundle_of_sticks"
+	group: ""
+	id: "3B05105B3E7DAFE8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6538ABE7A7D4957A"
+			rewards: [{
+				id: "44F143CA663F368C"
+				item: "origins:orb_of_origin"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/smelt_iron"
+				criterion: ""
+				id: "62CA71E357139E4A"
+				type: "advancement"
+			}]
+			title: "You"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6538ABE7A7D4957A"]
+			id: "276360FFC8706E7E"
+			rewards: [{
+				id: "04DAE475BA5357B5"
+				item: "origins:orb_of_origin"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/mine_diamond"
+				criterion: ""
+				id: "0EF03F0705F5A3A6"
+				type: "advancement"
+			}]
+			title: "Are"
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["276360FFC8706E7E"]
+			id: "55A9E3060C752BA7"
+			rewards: [{
+				id: "0ECAEFA437605A31"
+				item: "origins:orb_of_origin"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "406028FBE28436C1"
+				type: "advancement"
+			}]
+			title: "A"
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["55A9E3060C752BA7"]
+			id: "5C8420BD0390D70A"
+			rewards: [{
+				id: "35CBFBF8C4251B83"
+				item: "origins:orb_of_origin"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/enter_the_end"
+				criterion: ""
+				id: "54A339755679625B"
+				type: "advancement"
+			}]
+			title: "FAGGOT"
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			id: "20F357B88095121C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33BB749843EAC72C"
+				table_id: 6929873312892012743L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "4D03B49DF955B86F"
+				title: "Bee yourself"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+	]
+	title: "Bundle of Sticks"
+}
