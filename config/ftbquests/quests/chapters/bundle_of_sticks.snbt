@@ -86,13 +86,69 @@
 				table_id: 6929873312892012743L
 				type: "choice"
 			}]
-			tasks: [{
-				id: "4D03B49DF955B86F"
-				title: "Bee yourself"
-				type: "checkmark"
-			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "37975BB9317ABD31"
+					item: { Count: 3, id: "minecraft:honey_bottle" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 3L
+					id: "7B8518BA7C508A90"
+					item: { Count: 3, id: "minecraft:honeycomb" }
+					type: "item"
+				}
+			]
+			title: "Bee yourself"
 			x: -3.0d
 			y: -1.5d
+		}
+		{
+			id: "38136F529E8C2B1A"
+			rewards: [
+				{
+					id: "439A919B4990277C"
+					item: "minecraft:wither_skeleton_skull"
+					type: "item"
+				}
+				{
+					id: "542139194FE56992"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				icon: "minecraft:wither_skeleton_skull"
+				id: "52738A944605F356"
+				title: "Kill"
+				type: "kill"
+				value: 25L
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "16AEBE523BBCE5EA"
+			rewards: [{
+				command: "/mca editor"
+				id: "58D674C732C3A537"
+				title: "Open character customization"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 3L
+				id: "6B3A845575640CC8"
+				item: { Count: 3, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			title: "Change yourself"
+			x: -1.5d
+			y: 1.5d
 		}
 	]
 	title: "Bundle of Sticks"
