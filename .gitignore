@@ -22,3 +22,6 @@ options.txt
 usercache.json
 /immersive_paintings_cache
 /immersive_paintings
+/ct_dumps
+/screenshots
+/.vs
