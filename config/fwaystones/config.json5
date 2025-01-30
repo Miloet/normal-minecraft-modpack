@@ -6,11 +6,11 @@
 		"village_waystone_weight": 2
 	},
 	"teleportation_cost": {
-		"cost_type": "LEVEL",
-		"cost_item": "minecraft:ender_pearl",
-		"base_cost": 1,
+		"cost_type": "NONE",
+		"cost_item": "tons of love !! <3",
+		"base_cost": 0,
 		"cost_per_block_distance": 0.0,
-		"cost_multiplier_between_dimensions": 1.0
+		"cost_multiplier_between_dimensions": 0.0
 	},
 	"discover_with_item": "none",
 	"take_amount_from_discover_item": 0,
