@@ -26,7 +26,7 @@
 			]
 			tasks: [{
 				action: "kill"
-				amount: 15L
+				amount: 5L
 				biome: ""
 				dimension: ""
 				form: ""
@@ -63,7 +63,7 @@
 			]
 			tasks: [{
 				action: "defeat"
-				amount: 10L
+				amount: 5L
 				biome: ""
 				dimension: ""
 				form: ""
@@ -101,7 +101,7 @@
 			]
 			tasks: [{
 				action: "catch"
-				amount: 5L
+				amount: 3L
 				biome: ""
 				dimension: ""
 				form: ""
