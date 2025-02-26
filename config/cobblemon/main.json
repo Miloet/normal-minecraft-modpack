@@ -19,7 +19,7 @@
   "maxVerticalSpace": 8,
   "worldSliceDiameter": 8,
   "worldSliceHeight": 16,
-  "ticksBetweenSpawnAttempts": 20.0,
+  "ticksBetweenSpawnAttempts": 100.0,
   "minimumSliceDistanceFromPlayer": 16.0,
   "maximumSliceDistanceFromPlayer": 64.0,
   "exportSpawnConfig": false,

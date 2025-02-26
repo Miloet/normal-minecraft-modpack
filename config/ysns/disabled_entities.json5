@@ -1,0 +1,38 @@
+{
+  // ----------------------------------------------------------------------------------------------------------------
+  //                                     You Shall Not Spawn by ElocinDev.
+  //                                          disabled_entities.json5
+  // ----------------------------------------------------------------------------------------------------------------
+  //  
+  // Here you can disable entities from spawning globally, with no exceptions.
+  // Format: "modid:entity_name"
+  // Example: "minecraft:zombie"
+  //  
+  // Note: As a more advanced method, you can use regex by starting the entry with !
+  // Format: "!{Regular expression}"
+  // Example: "!minecraft:.*" will disable all entities from minecraft. (NOT RECOMMENDED, JUST AN EXAMPLE)
+  //  
+  "disabled": [
+    "wilderwild:firefly",
+    "naturalist:firefly",
+    "friendsandfoes:crab",
+    "hybrid-aquatic:dungeness_crab",
+    "hybrid-aquatic:coconut_crab",
+    "clutter:jellyfish",
+    "hybrid-aquatic:umbrella_octopus",
+    "clutter:manta_ray",
+    "clutter:seahorse",
+    "clutter:butterfly",
+    "naturalist:sparrow",
+    "crittersandcompanions:dragonfly",
+    "promenade:duck",
+    "naturalist:deer",
+    "wildernature:raccoon",
+    "wildernature:squirrel",
+    "naturalist:boar",
+    "wildernature:penguin",
+    "clutter:emperor_penguin"
+  ],
+  // Don't touch this!
+  "CONFIG_VERSION": 1
+}
