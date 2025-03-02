@@ -381,6 +381,134 @@
       "origins:carnivore": true,
       "origins:master_of_webs": true,
       "origins:arthropod": true
+    },
+    "fairytale:red_riding_hood": {
+      "enabled": true,
+      "fairytale:forest_stealth": true,
+      "fairytale:wolf_detection": true,
+      "fairytale:enhanced_forest_speed": true,
+      "fairytale:village_hero": true,
+      "fairytale:night_vulnerability": true,
+      "fairytale:axe_proficiency": true,
+      "fairytale:no_wolf_taming": true
+    },
+    "mythic:phoenix": {
+      "enabled": true,
+      "mythic:fire_immunity": true,
+      "mythic:phoenix_flight": true,
+      "mythic:flame_burst": true,
+      "mythic:rebirth": true,
+      "mythic:solar_strength": true,
+      "mythic:phoenix_weakness": true
+    },
+    "fairytale:frog_prince": {
+      "enabled": true,
+      "fairytale:amphibian_abilities": true,
+      "fairytale:hot_biome_vulnerability": true,
+      "fairytale:no_chestplate": true,
+      "fairytale:land_weakness": true
+    },
+    "fairytale:cinderella": {
+      "enabled": true,
+      "fairytale:graceful_step": true,
+      "fairytale:enhanced_movement": true,
+      "fairytale:dance_magic": true,
+      "fairytale:enhanced_jump": true,
+      "fairytale:no_boots": true,
+      "fairytale:armor_vulnerability": true,
+      "fairytale:water_slowness": true
+    },
+    "mythic:druid": {
+      "enabled": true,
+      "mythic:forest_blend": true,
+      "mythic:plant_step": true,
+      "mythic:natural_healing": true,
+      "mythic:nature_weakness": true,
+      "mythic:vegetarian": true
+    },
+    "fairytale:little_mermaid": {
+      "enabled": true,
+      "fairytale:sirens_call": true,
+      "fairytale:ocean_mastery": true,
+      "fairytale:water_dependency": true,
+      "fairytale:no_boots": true
+    },
+    "fairytale:jack_beanstalk": {
+      "enabled": true,
+      "fairytale:vine_ladder": true,
+      "fairytale:bean_planter": true,
+      "fairytale:fall_resistance": true,
+      "fairytale:height_weakness": true
+    },
+    "mythic:kitsune": {
+      "enabled": true,
+      "mythic:fox_form": true,
+      "mythic:fox_fire": true,
+      "mythic:kitsune_illusions": true,
+      "mythic:fox_agility": true,
+      "mythic:kitsune_weakness": true
+    },
+    "mythic:djinn": {
+      "enabled": true,
+      "mythic:sand_form": true,
+      "mythic:desert_walker": true,
+      "mythic:sandstorm": true,
+      "mythic:mirage": true,
+      "mythic:wish_magic": true
+    },
+    "mythic:valkyrie": {
+      "enabled": true,
+      "mythic:winged_flight": true,
+      "mythic:valkyrie_slam": true,
+      "mythic:spear_mastery": true,
+      "mythic:battle_cry": true,
+      "mythic:shield_maiden": true,
+      "mythic:warriors_spirit": true,
+      "mythic:valkyrie_weakness": true
+    },
+    "fairytale:sleeping_beauty": {
+      "enabled": true,
+      "fairytale:enhanced_regeneration": true,
+      "fairytale:potion_duration_extension": true,
+      "fairytale:bad_omen_resistance": true,
+      "fairytale:sleep_deprivation": true,
+      "fairytale:poison_vulnerability": true,
+      "fairytale:sleep_deprived_slowness": true
+    },
+    "fairytale:big_bad_wolf": {
+      "enabled": true,
+      "fairytale:huffing_puffing": true,
+      "fairytale:night_vision": true,
+      "fairytale:night_speed": true,
+      "fairytale:fire_vulnerability": true,
+      "fairytale:daylight_weakness": true,
+      "fairytale:armor_restriction": true
+    },
+    "fairytale:minotaur": {
+      "enabled": true,
+      "fairytale:bull_rush": true,
+      "fairytale:enhanced_strength": true,
+      "fairytale:tough_hide": true,
+      "fairytale:enhanced_jump": true,
+      "fairytale:slow_movement": true,
+      "fairytale:ranged_restriction": true,
+      "fairytale:slow_swimmer": true,
+      "fairytale:increased_hunger": true,
+      "fairytale:large_frame": true
+    },
+    "raccoonorigin:raccoonboi": {
+      "enabled": true,
+      "origins:cat_vision": true,
+      "origins:climbing": true,
+      "origins:extra_reach": true,
+      "origins:hunger_over_time": true,
+      "raccoonorigin:health": true,
+      "raccoonorigin:immunity": true,
+      "raccoonorigin:nighttime": true,
+      "raccoonorigin:daytime": true,
+      "raccoonorigin:inventory": true,
+      "raccoonorigin:trash_food": true,
+      "raccoonorigin:paws": true
     }
   }
 }

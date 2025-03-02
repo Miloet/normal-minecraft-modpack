@@ -31,7 +31,8 @@
     "wildernature:squirrel",
     "naturalist:boar",
     "wildernature:penguin",
-    "clutter:emperor_penguin"
+    "clutter:emperor_penguin",
+    "friendsandfoes:moobloom"
   ],
   // Don't touch this!
   "CONFIG_VERSION": 1

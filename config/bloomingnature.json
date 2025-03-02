@@ -35,7 +35,6 @@
   "addBloomingNatureStonyShoresStoneSlabs": true,
   "addBloomingNatureStonyShoresCobblestoneBeach": true,
   "addBloomingNatureStonyShoresMossyCobblestoneBeach": true,
-  "addBloomingNatureBeachPalms": true,
   "addBloomingNatureBeachFlowers": true,
   "addBloomingNatureBeachSandLayers": true,
   "setOldGrowthBirchForestGrassColor": 14406505,
@@ -216,6 +215,7 @@
   "addBloomingNatureSparseJungleMud": true,
   "addBloomingNatureSparseJungleLateritBoulder": true,
   "addBloomingNatureSparseJungleBuriedLaterit": true,
+  "addBloomingNatureDesertPalms": true,
   "addBloomingNatureDesertSmallCactus": true,
   "addBloomingNatureDesertVegetation": true,
   "addBloomingNatureDesertSlate": true
