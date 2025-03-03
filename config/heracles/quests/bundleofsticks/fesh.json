@@ -1,0 +1,63 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "kill": {
+      "entity": {
+        "type": "cobblemon:pokemon"
+      },
+      "amount": 5,
+      "type": "heracles:kill_entity"
+    }
+  },
+  "rewards": {
+    "xpcandy": {
+      "item": {
+        "id": "cobblemon:exp_candy_s",
+        "count": 5
+      },
+      "type": "heracles:item"
+    },
+    "pokeball": {
+      "item": {
+        "id": "cobblemon:poke_ball",
+        "count": 3
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "i love murder :3"
+    ],
+    "groups": {
+      "Bundle of Sticks": {
+        "position": [
+          -50,
+          110
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "cobblemon:poke_ball",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "fesh"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": true,
+    "autoClaimRewards": true,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}
