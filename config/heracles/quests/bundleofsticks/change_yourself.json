@@ -1,0 +1,64 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "diamond": {
+      "type": "heracles:item",
+      "item": "minecraft:diamond",
+      "amount": 3,
+      "collection": "MANUAL"
+    }
+  },
+  "rewards": {
+    "mcaeditor": {
+      "title": "Open the Character Editor",
+      "icon": {
+        "item": {
+          "id": "furniture:oak_mirror",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "command": "mca editor",
+      "type": "heracles:command"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "/4/**This is the Age of Sin.**/4/",
+      "Reject the order of creation.",
+      "Revel in the annihilation of Man as the image of God.",
+      "Destroy. Plot designs of death.",
+      "Disfigure the face of Man and Woman."
+    ],
+    "groups": {
+      "Bundle of Sticks": {
+        "position": [
+          0,
+          -10
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "furniture:oak_mirror",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "change yourself"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

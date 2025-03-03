@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "ocelot": {
+      "entity": "minecraft:ocelot",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "clutter:ocelot_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : female ocelots, when not fighting the gender binary, are called queens... slay, i guess"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -100,
+          -40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "clutter:ocelot_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Ocelot"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

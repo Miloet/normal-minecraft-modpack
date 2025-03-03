@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cat": {
+      "entity": "minecraft:cat",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "perfectplushies:cat_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : cats aren't nocturnal animals, but crepuscular, which means they'll be most active at dawn and dusk."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          0,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:cat_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Cat"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

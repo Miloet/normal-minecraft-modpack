@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "turtle": {
+      "entity": "minecraft:turtle",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "perfectplushies:turtle_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : all Sea Turtles lay their eggs at night but one specie, Kemp's Ridleys."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          0,
+          -100
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:turtle_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Turtle"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

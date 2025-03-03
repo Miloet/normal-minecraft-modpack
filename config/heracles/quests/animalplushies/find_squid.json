@@ -1,0 +1,52 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "squid": {
+      "icon": {
+        "item": {
+          "id": "clutter:squid_plushie",
+          "count": 1
+        },
+        "type": "heracles:item"
+      },
+      "entity": "minecraft:squid",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : you could most probably win in a fistfight against a squid as they, in fact, they lack fists"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -100,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "clutter:squid_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Squid"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

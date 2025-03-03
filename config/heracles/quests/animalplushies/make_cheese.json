@@ -1,0 +1,56 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cheese": {
+      "type": "heracles:item",
+      "item": "meadow:cheese_block",
+      "amount": 1,
+      "collection": "AUTOMATIC",
+      "title": "Make a Cheese Wheel"
+    }
+  },
+  "rewards": {
+    "perfect": {
+      "item": {
+        "id": "perfectplushies:mouse_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : mice (and rats alike) don't have a particular appentance for cheese, instead prefering seeds, berries and meat -- cheese just being what was left outside at mice's reach in ye olden days."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          0,
+          -70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:mouse_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Attract Mice"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

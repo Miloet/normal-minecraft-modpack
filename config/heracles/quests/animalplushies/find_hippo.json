@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "hippo": {
+      "entity": "naturalist:hippo",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plush": {
+      "item": {
+        "id": "perfectplushies:hippo_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : despite living in the water, hippos cannot swim, nor float. Unfortunate. Or fortunate, considering they're one of the deadliest animals for humans."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          70,
+          -70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:hippo_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Hippo"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

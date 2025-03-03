@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "elephant": {
+      "entity": "naturalist:elephant",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "perfectplushies:elephant_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : elephants are able to recognise themselves in the mirror, they're able to understand their own physical existence and body, able to understand that what is in the mirror is merely an image of themselves, one of the rare species to be able to do so."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -70,
+          70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:elephant_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Elephant"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

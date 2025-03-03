@@ -1,0 +1,60 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "bnuuy": {
+      "entity": "minecraft:rabbit",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "white": {
+      "item": {
+        "id": "perfectplushies:white_rabbit_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "brown": {
+      "item": {
+        "id": "perfectplushies:brown_rabbit_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : a playful rabbit's jump is called a 'binky'. So true, so true. *autistically binkies around*"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          70,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:brown_rabbit_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Rabbit"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

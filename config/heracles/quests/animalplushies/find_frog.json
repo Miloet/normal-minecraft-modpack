@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "frog": {
+      "entity": "minecraft:frog",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plush": {
+      "item": {
+        "id": "perfectplushies:frog_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : a specie of frog, the Pumpkin Toadlets, has become so tiny it has lost the ability to keep its balance mid-air, making it fall down like a pathetic little shit each time it lands."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          70,
+          70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:frog_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Frog"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

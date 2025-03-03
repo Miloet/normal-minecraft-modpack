@@ -1,0 +1,61 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "witherskele": {
+      "entity": {
+        "type": "minecraft:wither_skeleton"
+      },
+      "amount": 25,
+      "type": "heracles:kill_entity"
+    }
+  },
+  "rewards": {
+    "witherskull": {
+      "item": {
+        "id": "minecraft:wither_skeleton_skull",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "lvl": {
+      "xptype": "LEVEL",
+      "amount": 5,
+      "type": "heracles:xp"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "kill."
+    },
+    "description": [
+      "**kill, larry, you must kill.**"
+    ],
+    "groups": {
+      "Bundle of Sticks": {
+        "position": [
+          -100,
+          -10
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:wither_skeleton_skull",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/rounded_squares.png",
+    "title": {
+      "translate": "kill."
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": true,
+    "autoClaimRewards": true,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": true
+  }
+}

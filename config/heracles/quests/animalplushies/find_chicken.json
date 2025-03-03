@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "chicken": {
+      "entity": "minecraft:chicken",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "clutter:chicken_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : chickens can dream too ! And also possess a better colour vision than humans !"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          100,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "clutter:chicken_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Chicken"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

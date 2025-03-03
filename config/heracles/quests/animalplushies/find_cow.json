@@ -1,0 +1,60 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "cow": {
+      "entity": "minecraft:cow",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "clutter:cow_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "hat": {
+      "item": {
+        "id": "artifacts:cowboy_hat",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : i am deathly afraid of cows i dont like them they scare me :<"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -40,
+          100
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "clutter:cow_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Cow"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

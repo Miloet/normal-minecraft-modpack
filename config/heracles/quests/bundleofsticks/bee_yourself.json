@@ -1,0 +1,74 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "honey_bottle": {
+      "type": "heracles:item",
+      "item": "minecraft:honey_bottle",
+      "amount": 1,
+      "collection": "MANUAL"
+    },
+    "honeycomb": {
+      "type": "heracles:item",
+      "item": "minecraft:honeycomb",
+      "amount": 3,
+      "collection": "MANUAL"
+    }
+  },
+  "rewards": {
+    "thigh": {
+      "item": {
+        "id": "estrogen:thigh_highs",
+        "count": 1,
+        "nbt": {
+          "specialStyle": "estrogen:trans"
+        }
+      },
+      "type": "heracles:item"
+    },
+    "bla": {
+      "item": {
+        "id": "blahaj:blue_shark",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "the woke agenda demands honey because of a dumb pun, isn't that swagular"
+    },
+    "description": [
+      "the woke agenda demands honey because of a dumb pun, isn't that swagular"
+    ],
+    "groups": {
+      "Bundle of Sticks": {
+        "position": [
+          -50,
+          -90
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "the_bumblezone:bumble_bee_chestplate_trans_1",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "Bee Yourself"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

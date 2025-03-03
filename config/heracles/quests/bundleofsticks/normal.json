@@ -1,0 +1,57 @@
+{
+  "dependencies": [
+    "aa"
+  ],
+  "tasks": {
+    "end": {
+      "advancements": [
+        "minecraft:story/enter_the_end"
+      ],
+      "type": "heracles:advancement"
+    }
+  },
+  "rewards": {
+    "orb": {
+      "item": {
+        "id": "origins:orb_of_origin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "nothing to see here :3"
+    },
+    "description": [
+      "nothing to see here :3"
+    ],
+    "groups": {
+      "Bundle of Sticks": {
+        "position": [
+          -50,
+          70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:end_stone",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/diamonds.png",
+    "title": {
+      "translate": "normal and respectable person :3"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": true
+  }
+}

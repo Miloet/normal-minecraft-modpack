@@ -7,7 +7,7 @@
   "splashProgressBarColor": "#FFFFFF",
   "splashProgressFrameColor": "#FFFFFF",
   "splashProgressBackgroundColor": "#000000",
-  "progressBarBackground": false,
+  "progressBarBackground": true,
   "customProgressBarMode": "Linear",
   "bossBarColor": "MAGENTA",
   "bossBarType": "NOTCHED_20",

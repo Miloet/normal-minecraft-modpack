@@ -1,0 +1,55 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "iron": {
+      "advancements": [
+        "minecraft:story/smelt_iron"
+      ],
+      "type": "heracles:advancement"
+    }
+  },
+  "rewards": {
+    "orb": {
+      "item": {
+        "id": "origins:orb_of_origin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "yOU !! YES YOU !!"
+    },
+    "description": [
+      "yOU !! YES YOU !!"
+    ],
+    "groups": {
+      "Bundle of Sticks": {
+        "position": [
+          -50,
+          -50
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:iron_ingot",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "YOU"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": true
+  }
+}

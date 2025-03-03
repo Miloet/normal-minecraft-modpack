@@ -1,0 +1,84 @@
+{
+  "dependencies": [
+    "find_elephant",
+    "find_fox",
+    "find_sparrow",
+    "find_pig",
+    "find_raccoon",
+    "find_hippo",
+    "find_squid",
+    "find_chicken",
+    "find_cow",
+    "find_cat",
+    "find_coconut_doggie",
+    "find_shipwreck",
+    "find_duck",
+    "find_freddy_fazbear",
+    "make_cheese",
+    "find_turtle",
+    "find_kiwi",
+    "find_panda",
+    "find_deer",
+    "find_sheep",
+    "find_dolphin",
+    "find_frog",
+    "find_rabbit",
+    "find_hedgehog",
+    "find_lion",
+    "find_ocelot",
+    "find_dog",
+    "find_robin"
+  ],
+  "tasks": {},
+  "rewards": {
+    "diamond": {
+      "item": {
+        "id": "minecraft:diamond",
+        "count": 16
+      },
+      "type": "heracles:item"
+    },
+    "netherite": {
+      "item": {
+        "id": "minecraft:netherite_ingot",
+        "count": 8
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Is this even feasable ? uhh...; good luck i guess, teehee :3"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          0,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "naturalist:cattail_fluff",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "Plushie Finder"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

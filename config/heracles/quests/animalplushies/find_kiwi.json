@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "kiwi": {
+      "entity": "clutter:kiwi_bird",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "item": {
+      "item": {
+        "id": "clutter:kiwi",
+        "count": 8
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : yuo can also eat them if you so wish"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -40,
+          -100
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "clutter:kiwi",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Kiwi"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

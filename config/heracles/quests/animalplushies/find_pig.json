@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "pig": {
+      "entity": "minecraft:pig",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "clutter": {
+      "item": {
+        "id": "clutter:pig_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : pigs are smart, actually ! Quite smart ! They rank higher than dogs on average, and even better than some primates !"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -40,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "clutter:pig_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Pig"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

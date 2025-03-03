@@ -1,0 +1,63 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "hedgehog": {
+      "entity": "wildernature:hedgehog",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "perfectplushies:hedgehog_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "potion": {
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "nbt": {
+          "Potion": "minecraft:strong_swiftness"
+        }
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : hedgehogs used to be called urchins, hence the name sea urchin. Moreover, they are lactose intolerent. Ja."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -100,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:hedgehog_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Hedgehog"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

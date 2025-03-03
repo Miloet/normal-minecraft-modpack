@@ -1,0 +1,60 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "panda": {
+      "entity": "minecraft:panda",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "perfect": {
+      "item": {
+        "id": "perfectplushies:panda_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "clutter": {
+      "item": {
+        "id": "clutter:panda_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : pandas are called 熊猫 in chinese, which translates to Cat-Bears and i think that's adorable :333"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -70,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "clutter:panda_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Panda"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

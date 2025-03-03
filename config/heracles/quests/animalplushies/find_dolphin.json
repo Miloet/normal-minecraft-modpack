@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "dolphin": {
+      "entity": "minecraft:dolphin",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "perfectplushies:dolphin_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : i donte like ,;, dolphins"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -40,
+          -40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:dolphin_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Dolphin"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

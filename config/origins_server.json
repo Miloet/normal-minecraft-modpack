@@ -509,6 +509,30 @@
       "raccoonorigin:inventory": true,
       "raccoonorigin:trash_food": true,
       "raccoonorigin:paws": true
+    },
+    "worm:worm": {
+      "enabled": true,
+      "worm:anatomy": true,
+      "worm:yum": true,
+      "worm:burrow": true,
+      "worm:gooey": true
+    },
+    "feintha:test/test": {
+      "enabled": true,
+      "origins:elytra": true
+    },
+    "canineorigin:canine": {
+      "enabled": true,
+      "canineorigin:bite_wolf": true,
+      "canineorigin:food_heal_direct": true,
+      "canineorigin:ravenous": true,
+      "canineorigin:fierce_looks": true,
+      "canineorigin:doggy_paddle": true,
+      "canineorigin:prevent_food_eat_offhand": true,
+      "canineorigin:energetic": true,
+      "canineorigin:daww_look_at_the_wittle_puppy": true,
+      "origins:carnivore": true,
+      "origins:no_shield": true
     }
   }
 }

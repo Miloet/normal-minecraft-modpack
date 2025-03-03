@@ -1,0 +1,74 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "duck": {
+      "entity": "naturalist:duck",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "birbs": {
+      "item": {
+        "id": "perfectbirbs:harlequin_duck_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "perfect": {
+      "item": {
+        "id": "perfectplushies:duck_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "perfectrubber": {
+      "item": {
+        "id": "perfectplushies:rubber_duck_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "goose": {
+      "item": {
+        "id": "perfectplushies:goose_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : certain duck species can change gender, switching from females to males. Shoutout to all my duck tboys."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          0,
+          70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:duck_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Duck"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

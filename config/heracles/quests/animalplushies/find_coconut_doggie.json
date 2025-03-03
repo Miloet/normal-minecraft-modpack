@@ -1,0 +1,59 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "capy": {
+      "entity": "promenade:capybara",
+      "type": "heracles:entity_interaction"
+    },
+    "coconut": {
+      "type": "heracles:item",
+      "item": "ecologics:coconut_slice",
+      "amount": 1,
+      "collection": "MANUAL"
+    }
+  },
+  "rewards": {
+    "perfect": {
+      "item": {
+        "id": "perfectplushies:capybara_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : Capybaras are polyglots as far as animals go ! They can purr, bark, cackle, whistle, squeal, whine, grunt and even chatter their teeth !"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          0,
+          -40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "plushables:capybara_plushable",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Coconut Doggie"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

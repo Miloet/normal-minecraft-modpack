@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "raccoon": {
+      "entity": "raccoons-rabies:raccoon",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "perfectplushies:raccoon_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : raccoons are incredibly smart, and better at discerning than domestic cats (explains why Mel is so good at create stuff). According to research, they are quite innovative in their methods, too."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          40,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:raccoon_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Raccoon"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

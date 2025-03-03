@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "sheep": {
+      "entity": "minecraft:sheep",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "clutter:sheep_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : lesbian sheep are very silly and will stand still when trying intercourse, which is relatable, tons of love to my fellow lesbo failures :3333"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          40,
+          100
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "clutter:sheep_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Sheep"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

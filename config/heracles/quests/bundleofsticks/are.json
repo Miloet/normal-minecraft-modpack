@@ -1,0 +1,57 @@
+{
+  "dependencies": [
+    "you"
+  ],
+  "tasks": {
+    "diamond": {
+      "advancements": [
+        "minecraft:story/mine_diamond"
+      ],
+      "type": "heracles:advancement"
+    }
+  },
+  "rewards": {
+    "orb": {
+      "item": {
+        "id": "origins:orb_of_origin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "such a cool verb"
+    },
+    "description": [
+      "such a cool verb"
+    ],
+    "groups": {
+      "Bundle of Sticks": {
+        "position": [
+          -50,
+          -10
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:diamond",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "ARE"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": true
+  }
+}

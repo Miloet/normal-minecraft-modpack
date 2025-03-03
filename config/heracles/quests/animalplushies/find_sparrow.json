@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "sparrow": {
+      "entity": "cafesbirding:sparrow",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "birb": {
+      "item": {
+        "id": "perfectbirbs:sparrow_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : when anxious, sparrows will stim and shake their little bird tails side to side to ease the tension !"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          100,
+          -40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectbirbs:sparrow_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Sparrow"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

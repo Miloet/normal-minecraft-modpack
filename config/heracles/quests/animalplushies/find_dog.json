@@ -1,0 +1,57 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "wolf": {
+      "entity": "minecraft:wolf",
+      "type": "heracles:entity_interaction"
+    },
+    "dog": {
+      "entity": "puppypaws:golden_retriever",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "perfectplushies:dog_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : tgirls who are dog therians are adorable :3 i love y'allll !!!!!!"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -70,
+          -70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:dog_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Dog"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

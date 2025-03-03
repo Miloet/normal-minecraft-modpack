@@ -1,0 +1,60 @@
+{
+  "dependencies": [
+    "are"
+  ],
+  "tasks": {
+    "nether": {
+      "advancements": [
+        "minecraft:story/enter_the_nether"
+      ],
+      "type": "heracles:advancement"
+    }
+  },
+  "rewards": {
+    "orb": {
+      "item": {
+        "id": "origins:orb_of_origin",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "translate": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    "description": [
+      "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    ],
+    "groups": {
+      "Bundle of Sticks": {
+        "position": [
+          -50,
+          30
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:flint_and_steel",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "A"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": true
+  }
+}

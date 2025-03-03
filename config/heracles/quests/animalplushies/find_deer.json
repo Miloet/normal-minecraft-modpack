@@ -1,0 +1,60 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "deer": {
+      "entity": "wildernature:deer",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plushie": {
+      "item": {
+        "id": "perfectplushies:reindeer_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "doe": {
+      "item": {
+        "id": "perfectplushies:doe_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : the smallest specie of deers in the world is the Southern Pudu, who is 35 to 45 centimeters tall once adult. hehe,, teensy tiny baby,,"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          40,
+          -40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectplushies:reindeer_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Deer"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

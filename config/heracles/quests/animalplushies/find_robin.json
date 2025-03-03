@@ -1,0 +1,60 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "robin": {
+      "entity": "naturalist:robin",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "perfect": {
+      "item": {
+        "id": "perfectplushies:robin_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "birb": {
+      "item": {
+        "id": "perfectbirbs:european_robin_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : robins are angry fucks and like to lash out on dead birds, robin replicas and red objects. Huh."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          40,
+          -100
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "perfectbirbs:european_robin_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Robin"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

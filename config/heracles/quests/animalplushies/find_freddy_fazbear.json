@@ -1,0 +1,66 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "bear": {
+      "entity": "naturalist:bear",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "tophat": {
+      "item": {
+        "id": "herbalbrews:top_hat",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "plushie": {
+      "item": {
+        "id": "perfectplushies:bear_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : hehe;; ;,, ;: quite quirky at night,,"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -40,
+          0
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "herbalbrews:top_hat",
+        "count": 1,
+        "nbt": {
+          "Damage": 0
+        }
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Freddy Fazbear"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

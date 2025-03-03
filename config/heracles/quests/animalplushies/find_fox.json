@@ -1,0 +1,74 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "fox": {
+      "entity": "minecraft:fox",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "cluttersnow": {
+      "item": {
+        "id": "clutter:snow_fox_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "plushie": {
+      "item": {
+        "id": "perfectplushies:red_fox_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "clutter": {
+      "item": {
+        "id": "clutter:fox_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "snowperfect": {
+      "item": {
+        "id": "perfectplushies:snow_fox_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : in the curse that is gender binary, we named female foxes vixens and male ones tods or dogs. Why dogs ? To be confusing."
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          40,
+          40
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "clutter:fox_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Fox"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}
