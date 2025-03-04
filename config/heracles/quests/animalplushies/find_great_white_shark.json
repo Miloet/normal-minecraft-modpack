@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "great": {
+      "entity": "hybrid-aquatic:great_white_shark",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plush": {
+      "item": {
+        "id": "hybrid-aquatic:great_white_shark_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : Great White Sharks have a highly toxic blood, being full of arsenic and mercury. tasty :3"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          100,
+          70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "hybrid-aquatic:great_white_shark_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Great White Shark"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

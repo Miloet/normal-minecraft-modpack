@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "frilled": {
+      "entity": "hybrid-aquatic:frilled_shark",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plush": {
+      "item": {
+        "id": "hybrid-aquatic:frilled_shark_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : Frilled Sharks have quite the gestation period, as it can go up to 3.5 years !"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          100,
+          -70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "hybrid-aquatic:frilled_shark_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Frilled Shark"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

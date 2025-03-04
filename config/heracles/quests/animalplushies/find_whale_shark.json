@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "whale": {
+      "entity": "hybrid-aquatic:whale_shark",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plush": {
+      "item": {
+        "id": "hybrid-aquatic:whale_shark_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : whale sharks have teeth on their eyeballs. whale sharks have teeth on their eyeballs. whale sharks have teeth on their eyeballs. whale sharks have teeth on their eyeballs. whale sharks have teeth on their eyeballs. whale sharks have teeth on their eyeballs. "
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -100,
+          -70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "hybrid-aquatic:whale_shark_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Whale Shark"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

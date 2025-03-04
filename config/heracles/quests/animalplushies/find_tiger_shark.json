@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "tiger": {
+      "entity": "hybrid-aquatic:tiger_shark",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plush": {
+      "item": {
+        "id": "hybrid-aquatic:tiger_shark_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : Tiger Sharks are specifically sensible to the trance-like state induced by booping and massaging their nose or by turning them on their back !"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          -100,
+          70
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "hybrid-aquatic:tiger_shark_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Tiger Shark"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

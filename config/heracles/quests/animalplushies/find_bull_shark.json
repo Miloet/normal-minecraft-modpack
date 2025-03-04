@@ -1,0 +1,53 @@
+{
+  "dependencies": [],
+  "tasks": {
+    "bull": {
+      "entity": "hybrid-aquatic:bull_shark",
+      "type": "heracles:entity_interaction"
+    }
+  },
+  "rewards": {
+    "plush": {
+      "item": {
+        "id": "hybrid-aquatic:bull_shark_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    }
+  },
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [
+      "Did you know : unlike most sharks, Bull Sharks can thrive both in fresh and saltwater !"
+    ],
+    "groups": {
+      "Animal Plushies": {
+        "position": [
+          70,
+          -100
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "hybrid-aquatic:bull_shark_plushie",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/circles.png",
+    "title": {
+      "translate": "Find Bull Shark"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}
