@@ -16,7 +16,75 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item"
+    "hybrid-aquatic:ominous_hook",
+    "hybrid-aquatic:barbed_hook",
+    "hybrid-aquatic:glowing_hook",
+    "hybrid-aquatic:magnetic_hook",
+    "hybrid-aquatic:creepermagnet_hook",
+
+    "newworld:tombstone",
+
+    "lilis_lucky_lures:bamboo_fishing_rod",
+
+    "naturalist:naturalist:firefly_spawn_egg",
+
+    "wilderwild:firefly_spawn_egg",
+    "!wilderwild:.*firefly_bottle",
+
+    "friendsandfoes:crab_spawn_egg",
+    "friendsandfoes:crab_egg",
+    "friendsandfoes:crab_claw",
+
+    "hybrid-aquatic:dungeness_crab_spawn_egg",
+    "hybrid-aquatic:dungeness_crab_claw",
+
+    "hybrid-aquatic:coconut_crab_spawn_egg",
+    "hybrid-aquatic:coconut_crab_claw",
+
+    "clutter:jellyfish_spawn_egg",
+
+    "hybrid-aquatic:umbrella_octopus_spawn_egg",
+
+    "clutter:manta_ray_spawn_egg",
+
+    "clutter:seahorse_spawn_egg",
+
+    "clutter:butterfly_spawn_egg",
+    "clutter:butterfly_in_a_bottle",
+    "clutter:butterfly_cocoon",
+    "!clutter:.*_butterfly_elytra",
+
+    "naturalist:sparrow_spawn_egg",
+
+    "crittersandcompanions:dragonfly_spawn_egg",
+    "crittersandcompanions:dragonfly_wing",
+    "!crittersandcompanions:.*_dragonfly_armor",
+
+    "naturalist:duck_spawn_egg",
+    "naturalist:duck",
+    "naturalist:cooked_duck",
+
+    "naturalist:deer_spawn_egg",
+    "naturalist:venison",
+    "naturalist:cooked_venison",
+    "naturalist:antlers",
+
+    "wildernature:raccoon_spawn_egg",
+    "wildernature:loot_bag",
+
+    "wildernature:squirrel_spawn_egg",
+
+    "naturalist:boar_spawn_egg",
+
+    "wildernature:penguin_spawn_egg",
+
+    "clutter:emperor_penguin_spawn_egg",
+
+    "friendsandfoes:moobloom_spawn_egg",
+
+
+    "!davespotioneering:.*_umbrella"
+    
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
