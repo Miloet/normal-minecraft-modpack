@@ -1,0 +1,25 @@
+	[pantographsandwires_common_config.wires]
+		#[in Blocks]
+		#The maximum length of the catenary wire between two masts.
+		#Default: 48
+		#Range: 16 ~ 64
+		catenary_max_length = 50
+		#[in Blocks]
+		#The maximum length of the energy wire between two masts.
+		#Default: 48
+		#Range: 16 ~ 64
+		energy_max_length = 50
+		#Whether blocks placed in wires can destroy them.
+		#Default: true
+		block_destroy_wires = true
+		#Whether powered wires should cause damage to entities touching them.
+		#Default: true
+		wire_entity_damage = true
+
+		[pantographsandwires_common_config.wires.calculation]
+			#[in Block Pixels]
+			#Which step size is used in the collision calculation of the cables. Lower values increase precision but require more computing power. Higher values are inaccurate but require less more performance.
+			#If in doubt, leave unchanged.
+			#Default: 1
+			#Range: 0.1 ~ 4.0
+			collision_tracer_step_size = 1.0

@@ -6,6 +6,7 @@
         "type": "cobblemon:pokemon"
       },
       "amount": 5,
+      "title": "Kill Pokémen",
       "type": "heracles:kill_entity"
     }
   },
@@ -20,7 +21,7 @@
     "pokeball": {
       "item": {
         "id": "cobblemon:poke_ball",
-        "count": 3
+        "count": 5
       },
       "type": "heracles:item"
     }

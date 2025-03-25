@@ -1,0 +1,29 @@
+{
+  "allowMovement": {
+    "fabric.net.mca.client.gui.DestinyScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "net.kosmo.music.gui.JukeboxScreen": true,
+    "earth.terrarium.heracles.client.screens.quests.QuestsScreen": true,
+    "earth.terrarium.heracles.client.screens.quest.QuestScreen": true,
+    "earth.terrarium.heracles.client.screens.quest.QuestEditScreen": true,
+    "earth.terrarium.heracles.client.screens.quests.QuestsEditScreen": true,
+    "io.github.bumblesoftware.fastload.client.BuildingTerrainScreen": true,
+    "com.illusivesoulworks.diet.client.screen.DietScreen": true,
+    "io.github.apace100.origins.screen.ChooseOriginScreen": true,
+    "com.cstav.genshinstrument.client.gui.screen.instrument.floralzither.FloralZitherScreen": true,
+    "com.cstav.genshinstrument.client.gui.screen.options.instrument.FloralZitherOptionsScreen": true,
+    "com.cstav.genshinstrument.client.gui.screen.options.instrument.midi.MidiOptionsScreen": true,
+    "com.cstav.genshinstrument.client.gui.screen.instrument.vintagelyre.VintageLyreScreen": true,
+    "fabric.net.mca.client.gui.VillagerEditorScreen": true,
+    "com.cobblemon.mod.common.client.gui.startselection.StarterSelectionScreen": true
+  },
+  "hideBackground": {
+    "dev.emi.emi.screen.RecipeScreen": true,
+    "com.illusivesoulworks.diet.client.screen.DietScreen": true,
+    "com.cstav.genshinstrument.client.gui.screen.options.instrument.FloralZitherOptionsScreen": true,
+    "com.cstav.genshinstrument.client.gui.screen.options.instrument.midi.MidiOptionsScreen": true,
+    "fabric.net.mca.client.gui.VillagerEditorScreen": true
+  }
+}

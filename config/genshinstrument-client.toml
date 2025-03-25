@@ -1,5 +1,5 @@
 #Range: -12 ~ 12
-instrument_pitch = -11
+instrument_pitch = 1
 #Range: 0.0 ~ 1.0
 instrument_volume = 1.0
 #Allowed Values: KEYBOARD_LAYOUT, QWERTY, NOTE_NAME, DO_RE_MI, FIXED_ABC, FIXED_DO_RE_MI, NONE

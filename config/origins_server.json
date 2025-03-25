@@ -109,7 +109,9 @@
       "origins:water_vulnerability": true,
       "origins:flame_particles": true,
       "origins:damage_from_snowballs": true,
-      "origins:damage_from_potions": true
+      "origins:damage_from_potions": true,
+      "thermoo-patches:heat_immune": true,
+      "thermoo-patches:cold_vulnerability": true
     },
     "origins:avian": {
       "enabled": true,
@@ -303,7 +305,8 @@
       "medievalorigins:yeti/unstoppable": true,
       "medievalorigins:yeti/winter_body": true,
       "medievalorigins:yeti/flammable": true,
-      "medievalorigins:yeti/thick_fur": true
+      "medievalorigins:yeti/thick_fur": true,
+      "thermoo-patches:cold_immune": true
     },
     "medievalorigins:siren": {
       "enabled": true,
@@ -315,7 +318,8 @@
       "medievalorigins:siren/water_vision": true,
       "origins:aquatic": true,
       "origins:like_water": true,
-      "medievalorigins:siren/seduce": true
+      "medievalorigins:siren/seduce": true,
+      "thermoo-patches:cold_immune": true
     },
     "medievalorigins:incubus": {
       "enabled": true,
@@ -329,7 +333,9 @@
       "medievalorigins:incubus/lava_swim": true,
       "medievalorigins:incubus/red": true,
       "medievalorigins:incubus/spell_power": true,
-      "origins:nether_spawn": true
+      "origins:nether_spawn": true,
+      "thermoo-patches:heat_immune": true,
+      "thermoo-patches:cold_vulnerability": true
     },
     "medievalorigins:ogre": {
       "enabled": true,
@@ -367,7 +373,8 @@
       "medievalorigins:troll/apex_predator": true,
       "medievalorigins:troll/lumbering": true,
       "medievalorigins:troll/old_blood": true,
-      "medievalorigins:troll/out_of_stock": true
+      "medievalorigins:troll/out_of_stock": true,
+      "thermoo-patches:cold_immune": true
     },
     "medievalorigins:arachnae": {
       "enabled": true,
@@ -533,6 +540,17 @@
       "canineorigin:daww_look_at_the_wittle_puppy": true,
       "origins:carnivore": true,
       "origins:no_shield": true
+    },
+    "extraorigins:piglin": {
+      "enabled": true,
+      "origins:nether_spawn": true,
+      "thermoo-patches:extra_heat_resistance": true
+    },
+    "moborigins:snowgolem": {
+      "enabled": true,
+      "origins:water_vulnerability": true,
+      "thermoo-patches:cold_immune": true,
+      "thermoo-patches:heat_vulnerability": true
     }
   }
 }

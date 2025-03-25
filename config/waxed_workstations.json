@@ -1,0 +1,18 @@
+{
+  "enableWaxingWorkstations": true,
+  "enableWaxingBeds": true,
+  "enableWaxingBells": true,
+  "enableWaxingLodestones": false,
+  "enableWaxingLightningRods": false,
+  "enableWaxingBeehives": false,
+  "enableWaxingNetherPortals": false,
+  "enableWaxingEtc": false,
+  "waxingConsumeAmount": 1,
+  "unwaxingConsumeAmount": 1,
+  "waxingItems": [
+    "minecraft:honeycomb"
+  ],
+  "unwaxingItems": [
+    "tag minecraft:axes"
+  ]
+}
