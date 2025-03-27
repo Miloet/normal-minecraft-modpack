@@ -17,13 +17,17 @@
     "com.cstav.genshinstrument.client.gui.screen.options.instrument.midi.MidiOptionsScreen": true,
     "com.cstav.genshinstrument.client.gui.screen.instrument.vintagelyre.VintageLyreScreen": true,
     "fabric.net.mca.client.gui.VillagerEditorScreen": true,
-    "com.cobblemon.mod.common.client.gui.startselection.StarterSelectionScreen": true
+    "com.cobblemon.mod.common.client.gui.startselection.StarterSelectionScreen": true,
+    "com.moulberry.axiom.screen.AxiomIntroductionScreen": true,
+    "com.moulberry.axiom.screen.CreativeGradientScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
     "com.illusivesoulworks.diet.client.screen.DietScreen": true,
     "com.cstav.genshinstrument.client.gui.screen.options.instrument.FloralZitherOptionsScreen": true,
     "com.cstav.genshinstrument.client.gui.screen.options.instrument.midi.MidiOptionsScreen": true,
-    "fabric.net.mca.client.gui.VillagerEditorScreen": true
+    "fabric.net.mca.client.gui.VillagerEditorScreen": true,
+    "com.moulberry.axiom.screen.CreativeGradientScreen": true,
+    "com.moulberry.axiom.screen.CreativeColourScreen": true
   }
 }
