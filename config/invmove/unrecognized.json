@@ -19,7 +19,9 @@
     "fabric.net.mca.client.gui.VillagerEditorScreen": true,
     "com.cobblemon.mod.common.client.gui.startselection.StarterSelectionScreen": true,
     "com.moulberry.axiom.screen.AxiomIntroductionScreen": true,
-    "com.moulberry.axiom.screen.CreativeGradientScreen": true
+    "com.moulberry.axiom.screen.CreativeGradientScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -28,6 +30,10 @@
     "com.cstav.genshinstrument.client.gui.screen.options.instrument.midi.MidiOptionsScreen": true,
     "fabric.net.mca.client.gui.VillagerEditorScreen": true,
     "com.moulberry.axiom.screen.CreativeGradientScreen": true,
-    "com.moulberry.axiom.screen.CreativeColourScreen": true
+    "com.moulberry.axiom.screen.CreativeColourScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "wraith.fwaystones.screen.WaystoneBlockScreen": true
   }
 }
