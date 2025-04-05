@@ -21,7 +21,23 @@
     "com.moulberry.axiom.screen.AxiomIntroductionScreen": true,
     "com.moulberry.axiom.screen.CreativeGradientScreen": true,
     "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
-    "vazkii.patchouli.client.book.gui.GuiBookEntry": true
+    "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_429": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "com.tom.storagemod.gui.CraftingTerminalScreen": true,
+    "com.chaosthedude.naturescompass.gui.NaturesCompassScreen": true,
+    "com.chaosthedude.explorerscompass.gui.ExplorersCompassScreen": true,
+    "fi.dy.masa.tweakeroo.gui.GuiConfigs": true,
+    "net.satisfy.beachparty.client.gui.PalmBarGui": true,
+    "earth.terrarium.adastra.client.screens.vehicles.RocketScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.EtrionicBlastFurnaceScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.NasaWorkbenchScreen": true,
+    "earth.terrarium.adastra.client.screens.PlanetsScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.GravityNormalizerScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.CoalGeneratorScreen": true,
+    "earth.terrarium.adastra.client.screens.blocks.FlagUrlScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -34,6 +50,14 @@
     "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
     "vazkii.patchouli.client.book.gui.GuiBookCategory": true,
     "vazkii.patchouli.client.book.gui.GuiBookEntry": true,
-    "wraith.fwaystones.screen.WaystoneBlockScreen": true
+    "wraith.fwaystones.screen.WaystoneBlockScreen": true,
+    "com.tom.storagemod.gui.CraftingTerminalScreen": true,
+    "net.satisfy.beachparty.client.gui.PalmBarGui": true,
+    "earth.terrarium.adastra.client.screens.vehicles.RocketScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.EtrionicBlastFurnaceScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.NasaWorkbenchScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.GravityNormalizerScreen": true,
+    "earth.terrarium.adastra.client.screens.machines.CoalGeneratorScreen": true,
+    "earth.terrarium.adastra.client.screens.blocks.FlagUrlScreen": true
   }
 }

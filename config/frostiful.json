@@ -78,7 +78,7 @@
     "netheriteFrostResistance": 0.5
   },
   "icicleConfig": {
-    "iciclesFormInWeather": true,
+    "iciclesFormInWeather": false,
     "becomeUnstableChance": 0.05,
     "growChance": 0.02,
     "growChanceDuringRain": 0.09,
