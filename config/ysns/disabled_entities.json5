@@ -32,7 +32,16 @@
     "naturalist:boar",
     "wildernature:penguin",
     "clutter:emperor_penguin",
-    "friendsandfoes:moobloom"
+    "friendsandfoes:moobloom",
+    "clutter:beaver",
+    "hybrid-aquatic:goldfish",
+    "domixs-creatures:deer",
+    "domixs-creatures:hippo",
+    "hybrid-aquatic:anglerfish",
+    "hybrid-aquatic:tuna",
+    "spawn:tuna",
+    "spawn:seahorse",
+    "spawn:snail"
   ],
   // Don't touch this!
   "CONFIG_VERSION": 1

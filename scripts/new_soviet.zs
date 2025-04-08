@@ -1,9 +1,10 @@
 import crafttweaker.api.GenericRecipesManager;
 import crafttweaker.api.recipe.IRecipeManager;
+import crafttweaker.api.ingredient.transform.type.TransformReplace;
 
 craftingTable.addShaped("whitewash", <item:new_soviet:whitewash> * 8, [
     [<item:new_soviet:concrete>, <item:new_soviet:concrete>, <item:new_soviet:concrete>],
-    [<item:new_soviet:concrete>, <item:new_soviet:whitewash_item>, <item:new_soviet:concrete>],
+    [<item:new_soviet:concrete>, <item:new_soviet:whitewash_item>.transformReplace(<item:minecraft:bucket>), <item:new_soviet:concrete>],
     [<item:new_soviet:concrete>, <item:new_soviet:concrete>, <item:new_soviet:concrete>]
 ]);
 

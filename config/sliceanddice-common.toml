@@ -3,8 +3,8 @@
 	ignore_rotation = false
 
 [basin_cooking]
-	enabled = true
 	replace_fluid_containers = true
+	enabled = true
 
 [sprinkler]
 	#Range: 10 ~ 2048

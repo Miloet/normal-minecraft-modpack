@@ -47,7 +47,7 @@
 
     "clutter:manta_ray_spawn_egg",
 
-    "clutter:seahorse_spawn_egg",
+    "!clutter:seahorse_*",
 
     "clutter:butterfly_spawn_egg",
     "clutter:butterfly_in_a_bottle",
@@ -82,11 +82,39 @@
 
     "friendsandfoes:moobloom_spawn_egg",
 
-
     "!davespotioneering:.*_umbrella",
 
     "earlystage:wooden_bucket",
-    "earlystage:water_wooden_bucket"
+    "earlystage:water_wooden_bucket",
+
+    "clutter:beaver_spawn_egg",
+
+    "hybrid-aquatic:goldfish_spawn_egg",
+
+    "hybrid-aquatic:anglerfish_spawn_egg",
+
+    "hybrid-aquatic:tuna_spawn_egg",
+
+    "spawn:tuna_egg_bucket",
+    "spawn:tuna_chunk",
+    "spawn:cooked_tuna_chunk",
+    "spawn:tuna_spawn_egg",
+
+    "domixs-creatures:deer_spawn_egg",
+
+    "hybrid-aquatic:tuna_spawn_egg",
+    "hybrid-aquatic:bluefin_tuna",
+    "hybrid-aquatic:yellowfin_tuna",
+
+    "spawn:seahorse_bucket",
+    "spawn:seahorse_spawn_egg",
+
+    "domixs-creatures:hippo_spawn_egg",
+  
+    "spawn:snail_spawn_egg",
+    "spawn:snail_shell",
+
+    "create_bic_bit:sunflower_seeds"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

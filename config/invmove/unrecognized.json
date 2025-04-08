@@ -37,7 +37,13 @@
     "earth.terrarium.adastra.client.screens.PlanetsScreen": true,
     "earth.terrarium.adastra.client.screens.machines.GravityNormalizerScreen": true,
     "earth.terrarium.adastra.client.screens.machines.CoalGeneratorScreen": true,
-    "earth.terrarium.adastra.client.screens.blocks.FlagUrlScreen": true
+    "earth.terrarium.adastra.client.screens.blocks.FlagUrlScreen": true,
+    "com.li64.tide.client.gui.screens.FishingJournalScreen": true,
+    "com.simibubi.create.content.equipment.clipboard.ClipboardScreen": true,
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": true,
+    "net.satisfy.farm_and_charm.client.gui.CookingPotGui": true,
+    "net.satisfy.farm_and_charm.client.gui.StoveGui": true,
+    "com.li64.tide.client.gui.screens.AnglerWorkshopScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -58,6 +64,11 @@
     "earth.terrarium.adastra.client.screens.machines.NasaWorkbenchScreen": true,
     "earth.terrarium.adastra.client.screens.machines.GravityNormalizerScreen": true,
     "earth.terrarium.adastra.client.screens.machines.CoalGeneratorScreen": true,
-    "earth.terrarium.adastra.client.screens.blocks.FlagUrlScreen": true
+    "earth.terrarium.adastra.client.screens.blocks.FlagUrlScreen": true,
+    "com.simibubi.create.content.equipment.clipboard.ClipboardScreen": true,
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": true,
+    "net.satisfy.farm_and_charm.client.gui.CookingPotGui": true,
+    "net.satisfy.farm_and_charm.client.gui.StoveGui": true,
+    "com.li64.tide.client.gui.screens.AnglerWorkshopScreen": true
   }
 }
