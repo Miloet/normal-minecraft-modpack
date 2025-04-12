@@ -25,19 +25,6 @@ biomeAdditions: [
         water_creature: []
         water_ambient: []
         misc: []
-        glares: []
-        rascals: []
-        ha_fish: []
-        ha_fish_underground: []
-        ha_cephalopod: []
-        ha_jelly: []
-        ha_jelly_underground: []
-        ha_shark: []
-        ha_shark_underground: []
-        crustacean: []
-        crustacean_underground: []
-        ha_critter: []
-        ha_miniboss: []
       }
       spawn_costs: {}
     }

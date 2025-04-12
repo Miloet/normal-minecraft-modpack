@@ -68,6 +68,13 @@
 			"despawnStartRange": 32,
 			"immediateDespawnRange": 128
 		},
+		"bird": {
+			"capacity": 25,
+			"peaceful": true,
+			"rare": false,
+			"despawnStartRange": 32,
+			"immediateDespawnRange": 96
+		},
 		"crustacean_underground": {
 			"capacity": 10,
 			"peaceful": true,
@@ -140,6 +147,13 @@
 		},
 		"wilderwildjellyfish": {
 			"capacity": 60,
+			"peaceful": true,
+			"rare": false,
+			"despawnStartRange": 32,
+			"immediateDespawnRange": 64
+		},
+		"bird_ambient": {
+			"capacity": 15,
 			"peaceful": true,
 			"rare": false,
 			"despawnStartRange": 32,

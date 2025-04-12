@@ -43,7 +43,11 @@
     "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": true,
     "net.satisfy.farm_and_charm.client.gui.CookingPotGui": true,
     "net.satisfy.farm_and_charm.client.gui.StoveGui": true,
-    "com.li64.tide.client.gui.screens.AnglerWorkshopScreen": true
+    "com.li64.tide.client.gui.screens.AnglerWorkshopScreen": true,
+    "com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsScreen": true,
+    "net.orcinus.galosphere.client.gui.CombustionTableScreen": true,
+    "tech.thatgravyboat.vanity.client.screen.StylingScreen": true,
+    "tech.thatgravyboat.vanity.client.screen.StorageScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -69,6 +73,9 @@
     "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": true,
     "net.satisfy.farm_and_charm.client.gui.CookingPotGui": true,
     "net.satisfy.farm_and_charm.client.gui.StoveGui": true,
-    "com.li64.tide.client.gui.screens.AnglerWorkshopScreen": true
+    "com.li64.tide.client.gui.screens.AnglerWorkshopScreen": true,
+    "net.orcinus.galosphere.client.gui.CombustionTableScreen": true,
+    "tech.thatgravyboat.vanity.client.screen.StylingScreen": true,
+    "tech.thatgravyboat.vanity.client.screen.StorageScreen": true
   }
 }
